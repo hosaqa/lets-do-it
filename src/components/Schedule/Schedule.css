@@ -1,0 +1,8 @@
+.schedule__topbar {
+  margin: 0 0 10px;
+}
+
+.schedule__topbar-add-form {
+  margin: 0 0 0 10px;
+  display: inline-block;
+}

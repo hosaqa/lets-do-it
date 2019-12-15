@@ -1,0 +1,16 @@
+.ant-layout {
+  min-height: 100vh;
+}
+
+.layout {
+  background-color: #fff;
+}
+
+.layout__header {
+  display: flex;
+}
+
+.layout__content {
+  padding: 24px;
+  background-color: #fff;
+}
